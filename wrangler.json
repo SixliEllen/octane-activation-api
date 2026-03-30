@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "octane-activation-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "efce1bca-5f49-4e29-94a8-fae862d30891",
+			"database_name": "octane_activation_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
